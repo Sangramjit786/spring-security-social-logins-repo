@@ -38,8 +38,8 @@ It includes multiple approaches to achieve OAuth 2.0-based authentication, enabl
 ## 🚀 Getting Started
 
 ### **Prerequisites**
-- Java 17+
-- Maven 3.8+
+- Java 21
+- Maven 3.5+
 - GitHub and Facebook developer accounts with registered OAuth apps.
 
 ---
